@@ -1,0 +1,17 @@
+site_name: Et cetera Docs
+
+nav:
+    - 'Нотатки адміністратора':
+        - 'Розгортання та забезпечення безпеки': 'index.md'
+        - 'Проведення наукових конференцій': 'conference.md'
+    - 'Про проект': about.md
+
+repo_url: https://github.com/example/repository/
+
+plugins:
+  - search:
+      lang:
+        - en
+        - ru
+
+copyright: Copyright &copy; 2020 <a href="https://www.hneu.edu.ua">ХНЕУ ім. С. Кузнеця</a>, кафедра <a href="http://www.kafcbit.hneu.edu.ua">Кібербезпеки та інформаційних технологій</a>.
