@@ -6,6 +6,7 @@ nav:
     - 'Нотатки адміністратора':
         - 'Розгортання та забезпечення безпеки': 'index.md'
         - 'Проведення наукових конференцій': 'conference.md'
+        - 'Встановлення Kali Linux': 'kaliwindows.md'
     - 'Про проект': about.md
 
 repo_url: https://github.com/texnotes/sitesdocs/
