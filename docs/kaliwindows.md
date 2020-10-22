@@ -199,6 +199,6 @@ Kali Linux запитає, чи використовувати дзеркало 
 Запустивши, система попросить створити користувача і пароль до нього, створіть їх.
 Один по одному виконайте наступні команди (потрібне підключення до Інтернету).
  
->sudo apt update
->sudo apt dist-upgrade
->sudo apt install -y kali-win-kex
+>sudo apt update >
+>sudo apt dist-upgrade >
+>sudo apt install -y kali-win-kex >
