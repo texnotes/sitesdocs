@@ -1,5 +1,7 @@
 site_name: Et cetera Docs
 
+site_url: https://etc.hneu.edu.ua/docs/
+
 nav:
     - 'Нотатки адміністратора':
         - 'Розгортання та забезпечення безпеки': 'index.md'
