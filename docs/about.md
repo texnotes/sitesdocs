@@ -1,45 +1,22 @@
-# In quarta et longum accipe
+# Кібербезпека та Інформаційні технології у ХНЕУ ім. С. Кузнеця
 
-## Mirantem perimunt disce vulnus matutinaeque desunt vatis
+Підтримка та розвиток інформаційних ресурсів [ХНЕУ ім. С. Кузнеця](https://www.hneu.edu.ua/). Кафедра [кібербезпеки та інформаційних технологій](http://www.kafcbit.hneu.edu.ua/).
 
-Lorem markdownum medii sacri: sentit **e silva artus** nihil in. Abstulit nostra
-ferrum cecidere. Fuit **plura erat ministro**, in ex quod habet fertur. Inplevit
-Tydidae super aether, sub notus inpendit hiatu ille, leves si in quo omnes, est.
+---
 
-- Obsuntque pigeat
-- Erat inquit hoc vati mandata propinquos tenet
-- Inplerant bracchia
-- Comae dumque Lelegeides rex parentis paucaque lepus
+## Навчання та наукові дослідження 
 
-## Cessantem deseruere infamis sunt gravibus phaedimus statuit
+На кафедрі кібербезпеки та інформаційних технологій ХНЕУ ім. С. Кузнеця активно проводиться навчальний процесс із застосуванням найсучасніших технологій та засобів. Наприклад, студенти мають доступ до кіберполігону, де є можливим виконання завдань оцінки безпеки веб-ресурсів та інформаційних систем. Університет приймає участь у програмі [AWS Educate](https://aws.amazon.com/education/awseducate/), що дозволяє отримати доступ до найсучасніших технологій Хмаргих обчислень та оволодіти знаннями з технологій захисту на рівні хмарного сервісу. 
 
-Перевірка
 
-Parentis fecit **utraque**, mea lecta segetem evellere datis habebat *hac
-contigit* Venus inclusos sua sit licet ingenti, cupidisque. Temporis **cuspide
-Cyllaron utque** positasque pascas prole hominis confudit non picem [est
-admiremur valles](http://dolore.io/tosti) releguntque tenet incinctus grata
-Panopeusque aestuque.
+### Вебінар за темою “Сучасні загрози в кіберпросторі”
 
-Cuspide saucia, iam preces factis, cubilia *viasque*, et. Sed Phaethon saucius
-formosior et nunc lac vires veretur *pedum*, curvatura tenuique capit, dantem
-dea audeat. Indignos verborum dixit: moratus flammifera de prioris est similis
-alti.
+До Вашої уваги запис вебінару за темою “Сучасні загрози в кіберпросторі”. Доповідач: Євсеєв Сергій Петрович, завідувач кафедри кібербезпеки та інформаційних технологій, керівник Академії Cisco “Simon Kuznets Kharkiv National University of Economics”.
 
-## Inponit semper erit quam tollens Persei cuncta
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/373773380" width="640" height="460" frameborder="0" allowfullscreen></iframe> 
+<br>
 
-Patet et nunc corpore, *tegendas* gurgite nostros *coniunx et* comitum sanguine?
-Animum qua interritus sustinet, miraturus significant cognita Tethys repugnat?
-Se *fluminibus et* corbe; Eleis dant superest et clara ignorat.
+### Публікація рекомендацій та практик щодо розгортання та підтримки інформаційних ресурсів
 
-1. Cupiens enim iussa
-2. Summaque inde
-3. Flavam et requie litora spretae manusque soceri
-4. Herculeis fulvae Ophionides puer roseo bello
-5. Excussit creditus pavent
+Студенти та викладачі кафедри на цьому ресурсі публікують цікаві рішення та розповсюджують знання, що застосовують при рішенні практичних завдань з підтримки та розвитку інформаційних ресурсів ХНЕУ ім. С. Кузнеця. Якщо у вас є пропозиції та зауваження ви можете звернутись за посиланнями на нашому основному сайті [Кафедри кібербезпеки та інформаційних технологій](http://www.kafcbit.hneu.edu.ua/). 
 
-Oriens ossaque unus, ait aequor fugit Erecthidis illa se nempe genitore crinem,
-[cum adflat](http://www.aoniis.io/) Ditis. **Cum adfixa** neque ad praetemptanda
-quod et [nefas](http://www.virginea.net/): increvit acuta verba, in ut profuit
-praedae divamque. *Nurus ad habeo* carmen in est proturbat tenuit agere
-quotiens, per mora cultoribus ferit. In et fere.

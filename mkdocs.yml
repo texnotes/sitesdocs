@@ -8,7 +8,8 @@ nav:
         - 'Проведення наукових конференцій': 'conference.md'
     - 'Про проект': about.md
 
-repo_url: https://github.com/example/repository/
+repo_url: https://github.com/texnotes/sitesdocs/
+edit_uri: ""
 
 plugins:
   - search:
