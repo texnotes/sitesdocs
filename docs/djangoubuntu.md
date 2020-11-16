@@ -112,9 +112,11 @@ python3 manage.py runserver 0.0.0.0:8000
 
 ## Корисні посилання
 
-1.https://ru.wikipedia.org/wiki/Django
-2.https://www.digitalocean.com/community/tutorials/how-to-install-the-django-web-framework-on-ubuntu-18-04-ru
-3.https://tutorial.djangogirls.org/ru/django/
+1. https://ru.wikipedia.org/wiki/Django
+
+2. https://www.digitalocean.com/community/tutorials/how-to-install-the-django-web-framework-on-ubuntu-18-04-ru
+
+3. https://tutorial.djangogirls.org/ru/django/
 
 
 
