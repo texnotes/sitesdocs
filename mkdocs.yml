@@ -7,6 +7,8 @@ nav:
         - 'Розгортання та забезпечення безпеки': 'index.md'
         - 'Проведення наукових конференцій': 'conference.md'
         - 'Встановлення Kali Linux': 'kaliwindows.md'
+        - 'Сканування вразливостей сайту на Wordpress': 'wpscan.md'
+        - 'Сканер вразливостей Nessus': 'nessus.md'
         - 'Як встановити Django': 'djangoubuntu.md'
     - 'Про проект': about.md
 
